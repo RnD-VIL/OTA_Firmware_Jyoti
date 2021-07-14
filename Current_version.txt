@@ -1,1 +1,5 @@
+Hello, please store the info of the RU device and version you are changing. 
+Save here the last version you uploaded.
+
+#Zaheen Knitwares LTD 01 -> Motor control v4.1, RFID v4.1 
 
