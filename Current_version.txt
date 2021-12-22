@@ -2,4 +2,7 @@ Hello, please store the info of the RU device and version you are changing.
 Save here the last version you uploaded.
 
 #Zaheen Knitwares LTD 01 -> Motor control v4.1, RFID v4.1 
-#Organic Jeans 01 ->Motor control v3.2, RFID v3.2 
+#Organic Jeans 001 ->Motor control v3.2, RFID v3.2 
+#Organic Jeans 002 ->Motor control v3.2, RFID v3.2 
+#Organic Jeans 003 ->Motor control v3.2, RFID v3.2 
+#Organic Jeans 004 ->Motor control v3.2, RFID v3.2 
